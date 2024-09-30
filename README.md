@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Code sanbox code: 
+## Code sanbox code: 
 
 
 https://codesandbox.io/p/github/CyrusL06/nextjs-practices/main?file=%2Fapp%2Fabout%2Fpage.js%3A8%2C1&workspaceId=cd11c57a-8db7-42c7-9603-4403a20a0af9
