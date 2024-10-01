@@ -15,6 +15,8 @@ export default function Home() {
         {/* The way we use Anchor in Next */}
         <Link href="/about">About Us Next</Link>
       </p>
+
+      <p></p>
     </main>
   );
 }
